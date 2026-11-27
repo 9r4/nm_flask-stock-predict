@@ -4,4 +4,8 @@
 2. 機械学習をもちいて30日期間の株価を予想
 
 ## 使い方
+1. 以下URLにアクセスする
+```
 https://nm-flask-stock-predict.onrender.com
+```
+2. 銘柄コードを入力し、ボタンを押す。
